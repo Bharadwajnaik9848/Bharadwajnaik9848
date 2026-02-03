@@ -1,7 +1,7 @@
 <!-- PROFILE DASHBOARD -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&center=true&vCenter=true&width=750&lines=Bharadwaj+Naik+Halavath;+Full-Stack+Developer;+Maste's+in+Computer+ Science"alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&center=true&vCenter=true&width=750&lines=Bharadwaj+Naik+Halavath;+Full-Stack+Developer;+Maste's+in+Computer+ Sciencel;"alt="Typing SVG" />
 </p>
 
 <p align="center">
