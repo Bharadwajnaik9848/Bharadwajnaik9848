@@ -25,33 +25,6 @@
 - Built academic and personal projects using Java, Python, and ML libraries  
 ---
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmiRaGaL&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiRaGaL&layout=compact&langs_count=8&theme=default" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=AmiRaGaL&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiRaGaL&theme=github" alt="Contribution Graph" />
-</p>
-
----
-
-## 🛠 Tech Stack Snapshot
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
 
 
 
