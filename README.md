@@ -25,18 +25,19 @@
 - Built academic and personal projects using Java, Python, and ML libraries  
 ---
 
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bharadwajnaik9848&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharadwajnaik9848&layout=compact&langs_count=8&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharadwajnaik9848&show_icons=true&theme=radical" alt="Bharadwaj's Stats" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Bharadwajnaik9848&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharadwajnaik9848&theme=radical" alt="Bharadwaj's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharadwajnaik9848&theme=github" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharadwajnaik9848&theme=react-dark" alt="Contribution Graph" />
 </p>
 **Backend & Cloud**
 
