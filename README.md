@@ -27,6 +27,7 @@
 
 ### 📊 GitHub Stats
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=Bharadwajnaik9848&show_icons=true&theme=radical)
+
 ![Your Streak](https://streak-stats.demolab.com/?user=Bharadwajnaik9848&theme=radical)
 
 **Backend & Cloud**
