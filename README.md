@@ -26,13 +26,18 @@
 ---
 
 ### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Bharadwajnaik9848&show_icons=true&theme=radical)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bharadwajnaik9848&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharadwajnaik9848&layout=compact&langs_count=8&theme=default" />
+</p>
 
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Bharadwajnaik9848&theme=default" />
+</p>
 
-
-
-![Your Streak](https://streak-stats.demolab.com/?user=Bharadwajnaik9848&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharadwajnaik9848&theme=github" alt="Contribution Graph" />
+</p>
 **Backend & Cloud**
 
 <p>
