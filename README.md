@@ -61,6 +61,21 @@
 
 
 ---
+ ## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://bharadwajnaik9848.github.io/Portfolio-website-/">
+    <img src="https://img.shields.io/badge/🚀 Live_Portfolio-Visit_Now-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  Explore my projects, AI work, and full-stack applications in one place.
+</p>
+
+---
+
+
 
 ## 📬 Connect
 
